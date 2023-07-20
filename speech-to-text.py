@@ -7,45 +7,7 @@
 # Version: 1.0
 #
 ################################################################################
-# Script Name: speech-to-text.py
-# Description: Description du script.
-#
-# Created by: Martin Lechêne
-# Date: 19/07/2023
-# Version: 1.0
-#
-################################################################################
-# Script Name: speech-to-text.py
-# Description: Description du script.
-#
-# Created by: Martin Lechêne
-# Date: 19/07/2023
-# Version: 1.0
-#
-################################################################################
-# Script Name: speech-to-text.py
-# Description: Description du script.
-#
-# Created by: Martin Lechêne
-# Date: 19/07/2023
-# Version: 1.0
-#
-################################################################################
-# Script Name: speech-to-text.py
-# Description: Description du script.
-#
-# Created by: Martin Lechêne
-# Date: 19/07/2023
-# Version: 1.0
-#
-################################################################################
-# Script Name: speech-to-text.py
-# Description: Description du script.
-#
-# Created by: Martin Lechêne
-# Date: 19/07/2023
-# Version: 1.0
-#
+
 import pyttsx3
 import speech_recognition as sr
 
