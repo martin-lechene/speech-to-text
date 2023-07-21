@@ -1,0 +1,5 @@
+{
+    "require": {
+        "ibm/watson-sdk": "^0.6.0"
+    }
+}
